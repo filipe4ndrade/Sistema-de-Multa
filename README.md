@@ -1,7 +1,7 @@
 # Sistema-de-Multa
 ## Projeto do Programa 1000devs
 
-Modele e codifique um sistema que controla multas de trânsito. Nesse sistema estarão presentes as entidades: (mildevs-multas)
+Modele e codifique um sistema que controla multas de trânsito. Nesse sistema estarão presentes as entidades:(mildevs-multas)
 
 Entidades:
 
