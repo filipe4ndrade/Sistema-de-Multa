@@ -16,6 +16,7 @@ Requisitos:
 
 Relacione as entidades conforme especificado no problema, depois crie um DAO para cada uma delas com as funcionalidades básicas de consulta, listagem, inserção e remoção. Valide os relacionamentos criados pelo Hibernate.
 
+
  - é possível criar um condutor sem um veículo; 
 
  - não é possível criar uma multa para um veículo inexistente;
